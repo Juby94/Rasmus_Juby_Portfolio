@@ -284,8 +284,6 @@ li {
 @media screen and (orientation:portrait) and (min-width: 300px) {
     #billede_mig {
         background-image: url(img/mig.jpg);
-        padding-top: 400px;
-
     }
     .p_forside {
         font-size: 1.2em;
